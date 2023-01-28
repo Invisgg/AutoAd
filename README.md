@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Minehut Auto Ad
 
-## Setup
+Private minecraft auto ad mod
+Requires Java 17 & Fabric API
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+# How to use!
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Log on minehut and execute:
+> -set (Server Name) (Server Ad)
+> -delay (Time in ms)
+> -toggle
