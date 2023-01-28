@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "id": "modid",
-  "version": "${version}",
+  "version": "1.0.0",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Phantom",
+  "description": "-set (name) (ad) | -delay (cooldown in ms) | -toggle",
   "authors": [
-    "Me!"
+    "MolesLLC"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
