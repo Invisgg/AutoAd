@@ -1,0 +1,21 @@
+{
+  "mappings": {
+    "net/fabricmc/example/mixin/ClientPlayerEntityMixin": {
+      "Lnet/minecraft/client/network/AbstractClientPlayerEntity;tick()V": "Lnet/minecraft/class_742;method_5773()V",
+      "tick()V": "Lnet/minecraft/class_746;method_5773()V"
+    },
+    "net/fabricmc/example/mixin/ClientPlayNetworkHandlerMixin": {
+      "sendChatMessage": "Lnet/minecraft/class_634;method_45729(Ljava/lang/String;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/fabricmc/example/mixin/ClientPlayerEntityMixin": {
+        "Lnet/minecraft/client/network/AbstractClientPlayerEntity;tick()V": "Lnet/minecraft/class_742;method_5773()V",
+        "tick()V": "Lnet/minecraft/class_746;method_5773()V"
+      },
+      "net/fabricmc/example/mixin/ClientPlayNetworkHandlerMixin": {
+        "sendChatMessage": "Lnet/minecraft/class_634;method_45729(Ljava/lang/String;)V"
+      }
+    }
+  }
